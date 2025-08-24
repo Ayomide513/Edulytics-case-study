@@ -1,14 +1,14 @@
 # Edulytics-case-study
 Clustering High School Students Based on Social Media Interests
 
-📊 Unsupervised Learning | KMeans, DBSCAN, Agglomerative | PCA Visualization
+Unsupervised Learning | KMeans, DBSCAN, Agglomerative | PCA Visualization
 
 This project applies unsupervised machine learning to cluster high school students into meaningful personas based on their social media interests and demographics. The dataset comes from Kaggle
  and includes 15,000 profiles (2006–2009).
 
 The analysis was done as part of an Edulytics case study, exploring how clustering can help schools and ed-tech companies better understand student communities.
 
-🚀 Project Overview
+Project Overview
 
 Objective: Identify distinct groups of students using their demographics and interest terms.
 
@@ -24,7 +24,7 @@ Visualization using PCA (2D & 3D scatter plots)
 
 Output: 7 interpretable student personas with demographics + top interests.
 
-🔍 Key Findings: Student Personas
+Key Findings: Student Personas
 
 Cluster 0 – Romantic Group → Teens focused on relationships.
 
@@ -42,7 +42,7 @@ Cluster 6 – Outlier/Edgy Subgroup → Explicit/edgy interests (likely niche/no
 
 Cluster 7 – Fashion & Brand-Driven → Hollister, Abercrombie, shopping, socially active.
 
-📊 Visuals
+Visuals
 
 Top 10 Most Frequent Interests
 
@@ -54,7 +54,7 @@ Top 5 Interests per Cluster
 
 (See visuals/ folder for saved charts)
 
-🛠️ Tech Stack
+Tech Stack
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
@@ -62,15 +62,8 @@ Scikit-learn (KMeans, DBSCAN, Agglomerative, PCA)
 
 Scipy (hierarchical clustering tools)
 
-📂 Repository Structure
-student-clustering/
-├── notebooks/
-│   └── Unsupervised_learning_assignment.ipynb   # main notebook
-├── visuals/                                     # exported plots
-├── requirements.txt                             # dependencies
-└── README.md                                    # project summary
 
-📌 Business Implications
+Business Implications
 
 Sports Cluster → Support athletics programs and mentoring.
 
@@ -82,11 +75,11 @@ Romantic Cluster → Counseling tailored to relationships and social growth.
 
 Outlier Cluster → Digital literacy & mental health awareness programs.
 
-📖 Medium Article
+Medium Article
 
 I wrote a full walkthrough of the project here:
-👉 Read on Medium: https://medium.com/@ayorindeolamilekan2003/clustering-high-school-students-uncovering-hidden-personas-through-social-media-interests-3baea7815283
+Read on Medium: https://medium.com/@ayorindeolamilekan2003/clustering-high-school-students-uncovering-hidden-personas-through-social-media-interests-3baea7815283
 
-📧 Email: [Your Email]
+📧 Email: [ayorindeolamilekan2003@gmail.com]
 
-🔥 This project shows how machine learning + behavioral data can be combined to uncover actionable insights in education.
+ This project shows how machine learning + behavioral data can be combined to uncover actionable insights in education.
